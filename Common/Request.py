@@ -17,6 +17,8 @@ from requests_toolbelt import MultipartEncoder
 
 
 class Request:
+    sign = ""
+    auth_sid = ""
 
     def __init__(self, env):
         """
@@ -40,9 +42,12 @@ class Request:
 
         try:
             if data is None:
-                response = requests.get(url=url, headers=header, cookies=self.get_session)
-            else:
+                data = {"sign": self.sign, "auth_sid": self.auth_sid}
                 response = requests.get(url=url, params=data, headers=header, cookies=self.get_session)
+            else:
+                data[0]["sign"] = self.sign
+                data[0]["auth_sid"] = self.auth_sid
+                response = requests.get(url=url, params=data[0], headers=header)
 
         except requests.RequestException as e:
             print('%s%s' % ('RequestException url: ', url))
@@ -52,6 +57,7 @@ class Request:
         except Exception as e:
             print('%s%s' % ('Exception url: ', url))
             print(e)
+            raise
             return ()
 
         time_consuming = response.elapsed.microseconds/1000
@@ -86,8 +92,11 @@ class Request:
             print(url)
         try:
             if data is None:
-                response = requests.post(url=url, headers=header, cookies=self.get_session)
+                data = {"sign": self.sign, "auth_sid": self.auth_sid}
+                response = requests.post(url=url, params=data, headers=header, cookies=self.get_session)
             else:
+                data[0]["sign"] = self.sign
+                data[0]["auth_sid"] = self.auth_sid
                 response = requests.post(url=url, params=data, headers=header, cookies=self.get_session)
 
         except requests.RequestException as e:

@@ -27,14 +27,14 @@ from Common import Consts
 @pytest.fixture()
 def action():
     # 定义环境
-    env = Consts.API_ENVIRONMENT_RELEASE
+    env = Consts.API_ENVIRONMENT_DEBUG
     # 定义报告中environment
     conf = Config()
     host = conf.host_release
     tester = conf.tester_release
-    allure.environment(environment=env)
-    allure.environment(hostname=host)
-    allure.environment(tester=tester)
+    # allure.environment(environment=env)
+    # allure.environment(hostname=host)
+    # allure.environment(tester=tester)
     return env
 
 

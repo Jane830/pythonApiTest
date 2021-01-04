@@ -1,17 +1,29 @@
 ---
 Basic:
-  dec: "基础设置"
+  dec: "基础设置userNodeMenu"
   parameters:
     -
-      url: /postLogin
+      url: /admin_server/public/agentAddBaseSkill
       data:
-        -
-          email: wangjuan@user.com
-          password: 123456
-          auth: admin
+        company_id: 260
+#          password: Test001.
+#          auth: 陈翩_1.4_Test001.
       header: {
                  "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko)\
                   Chrome/67.0.3396.99 Safari/537.36",
                  "Content-Type": "application/x-www-form-urlencoded"
               }
+      expected:
+        code : 000000
+        msg: 操作成功
+#        data:
+#        - truename : 企业技能分类/企业技能
+
+
+
+    -
+      url: /admin
+      data:
+      header:
+      expected:
 

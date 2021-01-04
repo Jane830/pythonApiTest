@@ -1,0 +1,8 @@
+pytest==5.3.1
+# allure-pytest==2.8.6
+# allure-python-commons==2.8.6
+pytest-rerunfailures==5.0
+configparser==3.5.0
+# PyYAML==3.12
+# requests==2.18.4
+simplejson==3.16.0

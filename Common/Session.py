@@ -7,11 +7,16 @@
 封装获取cookie方法
 
 """
+import json
+import urllib
 
 import requests
 
+
 from Common import Log
 from Conf import Config
+from Common import Request
+
 
 
 class Session:
@@ -34,11 +39,16 @@ class Session:
         if env == "debug":
             login_url = 'http://' + self.config.loginHost_debug
             parm = self.config.loginInfo_debug
-
+            parm = json.loads(parm)
             session_debug = requests.session()
             response = session_debug.post(login_url, parm, headers=headers)
             print(response.cookies)
             self.log.debug('cookies: %s' % response.cookies.get_dict())
+            # get sign and auth_sid
+            sign = json.loads(response.text)['data']['sign']
+            auth_sid = json.loads(response.text)['data']['auth_sid']
+            Request.Request.auth_sid = auth_sid
+            Request.Request.sign = sign
             return response.cookies.get_dict()
 
         elif env == "release":

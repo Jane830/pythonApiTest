@@ -31,12 +31,15 @@ class TestBasic:
         urls = data.url
         params = data.data
         headers = data.header
+        expected = data.expected
 
         api_url = req_url + urls[0]
-        response = request.get_request(api_url, params[0], headers[0])
+        response = request.post_request(api_url, params[0], headers[0])
 
-        assert test.assert_code(response['code'], 401)
-        assert test.assert_body(response['body'], 'error', u'继续操作前请注册或者登录.')
+        assert test.assert_code(response['code'], 200)
+        assert test.assert_msg(response['msg'], '成功')
+        assert test.assert_data(response['body'], expected)
+        # assert test.assert_body(response['body'], expected)
         assert test.assert_time(response['time_consuming'], 100)
         Consts.RESULT_LIST.append('True')
 

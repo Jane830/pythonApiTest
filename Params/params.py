@@ -26,10 +26,12 @@ class Basic:
     url = []
     data = []
     header = []
+    expected = []
     for i in range(0, len(params)):
         url.append(params[i]['url'])
         data.append(params[i]['data'])
         header.append(params[i]['header'])
+        expected.append(params[i]['expected'])
 
 
 class Collections:

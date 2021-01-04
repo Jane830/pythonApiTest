@@ -14,6 +14,8 @@ import json
 
 
 class Assertions:
+    SUCCESS = 200
+
     def __init__(self):
         self.log = Log.MyLog()
 
@@ -33,6 +35,38 @@ class Assertions:
 
             raise
 
+    # def assert_expected(self, code, body, expected):
+    #     #     将yml文件中的expected获取到的list或其他类型，用来与response来做比较
+    #     try:
+    #         self.assert_code(self, code, 200)
+    #         #  解析expected 获取要校验的key值
+    #         expected
+    #         body
+    def assert_msg(self, body_msg, expected_msg):
+        # 验证response中的msg信息
+        try:
+            assert body_msg == expected_msg
+            return True
+
+        except:
+            self.log.error(
+                "Response body msg != expected_msg, expected_msg is %s, body_msg is %s" % (expected_msg, body_msg))
+
+    def assert_data(self, actualJson, expectedlist):
+        # 验证response中的data信息
+        try:
+            for x in expectedlist:
+                assert actualJson[x]== expectedlist[x]
+            return True
+
+        except:
+            self.log.error(
+                "Response body data != expected_msg, expected_msg is %s, body_msg is %s" % (expectedlist, actualJson))
+            Consts.RESULT_LIST.append('fail')
+
+            raise
+
+
     def assert_body(self, body, body_msg, expected_msg):
         """
         验证response body中任意属性的值
@@ -47,7 +81,8 @@ class Assertions:
             return True
 
         except:
-            self.log.error("Response body msg != expected_msg, expected_msg is %s, body_msg is %s" % (expected_msg, body_msg))
+            self.log.error(
+                "Response body msg != expected_msg, expected_msg is %s, body_msg is %s" % (expected_msg, body_msg))
             Consts.RESULT_LIST.append('fail')
 
             raise
@@ -104,5 +139,3 @@ class Assertions:
             Consts.RESULT_LIST.append('fail')
 
             raise
-
-

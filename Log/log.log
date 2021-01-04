@@ -1,71 +1,211 @@
-[DEBUG 2018-08-31 22:11:43]cookies: {'PPY_AFFSESSID1': 's%3AYC2YCWP7JzDtDheX3QBkhlPA.vCFjK9XxSVlq5ZmAZEJyGW15bLG47i31aKG%2FSwBuORE'}
-[INFO 2019-05-07 16:23:13]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 16:23:13]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 16:24:01]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 16:24:01]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 16:24:19]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 16:24:19]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 16:25:42]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 16:25:42]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 16:26:28]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 16:26:28]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 16:27:08]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 16:27:08]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
-[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
-[ERROR 2019-05-07 16:27:15]邮件发送失败，请检查邮件配置
-[INFO 2019-05-07 16:28:14]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 16:28:14]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 16:28:15]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
-[INFO 2019-05-07 16:28:15]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
-[INFO 2019-05-07 16:28:15]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
-[INFO 2019-05-07 16:28:15]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
-[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
-[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
-[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
-[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
-[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
-[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
-[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
-[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
-[ERROR 2019-05-07 16:28:20]邮件发送失败，请检查邮件配置
-[INFO 2019-05-07 16:30:37]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 16:30:37]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 16:30:39]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
-[INFO 2019-05-07 16:30:39]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
-[INFO 2019-05-07 16:30:39]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
-[ERROR 2019-05-07 16:30:44]邮件发送失败，请检查邮件配置
-[INFO 2019-05-07 16:31:07]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 16:31:07]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 16:31:35]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 16:31:35]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 17:04:49]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-05-07 17:04:49]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-05-07 17:04:50]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
-[INFO 2019-05-07 17:04:50]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
-[INFO 2019-05-07 17:04:50]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
-[ERROR 2019-05-07 17:04:57]邮件发送失败，请检查邮件配置
-[INFO 2019-06-03 16:33:16]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-06-03 16:33:16]执行用例集为：--allure_features=Home,Personal
-[INFO 2019-06-03 16:33:20]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
-[ERROR 2019-06-03 16:33:25]邮件发送失败，请检查邮件配置
-[INFO 2019-07-08 17:27:58]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-07-08 17:29:05]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-07-08 17:30:02]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-07-08 17:30:29]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-07-08 17:30:57]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[ERROR 2019-07-08 17:31:01]邮件发送失败，请检查邮件配置
-[INFO 2019-07-08 17:32:01]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-07-08 17:33:01]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-07-08 17:33:12]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
-[INFO 2019-07-08 17:35:06]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2020-12-22 21:35:41]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 21:35:41]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 21:35:41]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 21:44:25]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 21:44:25]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 21:44:25]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 21:44:51]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 21:44:51]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 21:44:51]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 21:49:35]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 21:49:36]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 21:49:36]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 23:14:51]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 23:14:51]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 23:14:51]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 23:14:58]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 23:14:58]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 23:14:59]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 23:16:02]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 23:16:02]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 23:16:03]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 23:18:56]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 23:18:56]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 23:18:56]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-22 23:19:56]cookies: {'PHPSESSID': 'n1mbtsjv8rrof33r2mmnd7fi83'}
+[ERROR 2020-12-22 23:20:12]statusCode error, expected_code is 401, statusCode is 200 
+[INFO 2020-12-22 23:20:49]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 23:20:49]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 23:20:49]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 23:23:03]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 23:23:03]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 23:23:03]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 23:39:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 23:39:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 23:39:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 23:41:57]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 23:41:57]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 23:41:57]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 23:44:13]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 23:44:13]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 23:44:14]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-22 23:59:29]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-22 23:59:29]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-22 23:59:29]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-23 00:01:53]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:01:53]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:01:53]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-23 00:02:28]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:02:28]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:02:28]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-23 00:04:33]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:04:33]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:04:33]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-23 00:07:31]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:07:31]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:07:31]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-23 00:10:50]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:10:50]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:10:50]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[INFO 2020-12-23 00:15:48]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:15:48]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:15:48]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:16:37]cookies: {'PHPSESSID': 'anhbdo9fq0nv321lrp1j2isb94'}
+[INFO 2020-12-23 00:16:46]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:16:46]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:16:46]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:17:08]cookies: {'PHPSESSID': 'q6rmcl8c1l8cro0euq84lteil3'}
+[INFO 2020-12-23 00:22:29]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:22:30]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:22:30]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:22:44]cookies: {'PHPSESSID': 'vembv7aaqevn29obt4p9a45e27'}
+[INFO 2020-12-23 00:26:56]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:26:56]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:26:56]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:27:03]cookies: {'PHPSESSID': 'p7foarqspv8r11vvd86ase43u0'}
+[INFO 2020-12-23 00:27:55]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:27:55]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:27:55]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:27:57]cookies: {'PHPSESSID': 'vt0o7siv9dd09d7spvnjc8jj84'}
+[INFO 2020-12-23 00:46:24]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:46:24]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:46:24]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:46:26]cookies: {'PHPSESSID': '7dpqbipnp4nl23dvkuq38sj5q2'}
+[INFO 2020-12-23 00:47:11]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:47:11]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:47:11]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:47:13]cookies: {'PHPSESSID': 'b39kc4a94tb22mjhm9do7k13j2'}
+[INFO 2020-12-23 00:47:55]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:47:56]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:47:56]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:47:57]cookies: {'PHPSESSID': 'usp9dvg2abl3frjrjj5o2av5a5'}
+[INFO 2020-12-23 00:49:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:49:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:49:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:49:38]cookies: {'PHPSESSID': 'ppco9su3d4i6ul6hibg888crb1'}
+[INFO 2020-12-23 00:51:50]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:51:50]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:51:50]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:51:52]cookies: {'PHPSESSID': 'bncu670jcjb0mdhmfo3bto6bq1'}
+[INFO 2020-12-23 00:55:25]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:55:25]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:55:25]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:55:26]cookies: {'PHPSESSID': '3dout76ihldfj8a1acn48steg1'}
+[INFO 2020-12-23 00:58:13]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:58:13]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:58:13]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:58:14]cookies: {'PHPSESSID': 'omgeg8kbfjqpdonjapa3kg3pb5'}
+[INFO 2020-12-23 00:59:20]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 00:59:20]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 00:59:20]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 00:59:22]cookies: {'PHPSESSID': 'v91db3turlruu25oc216tad4d4'}
+[INFO 2020-12-23 01:01:46]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 01:01:46]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 01:01:46]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 01:01:48]cookies: {'PHPSESSID': '38mg7ai6sgcipea9suosc47kc3'}
+[ERROR 2020-12-23 01:02:58]statusCode error, expected_code is 401, statusCode is 200 
+[INFO 2020-12-23 01:03:25]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-23 01:03:25]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-23 01:03:25]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-23 01:03:27]cookies: {'PHPSESSID': 'ssv3ua8jppl5peqem53douv7n1'}
+[ERROR 2020-12-23 21:08:48]statusCode error, expected_code is 401, statusCode is 200 
+[INFO 2020-12-25 09:23:12]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-25 09:23:12]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-25 09:23:12]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-25 09:23:13]cookies: {'PHPSESSID': 'tbfuvo971nls4c94ek01d4kko6'}
+[ERROR 2020-12-25 09:23:14]Response body msg != expected_msg, expected_msg is 继续操作前请注册或者登录., body_msg is error
+[INFO 2020-12-28 10:29:30]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 10:29:30]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 10:29:30]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 10:29:34]cookies: {'PHPSESSID': 'pjodetoofling36440qtn1gvh7'}
+[ERROR 2020-12-28 10:29:34]Response body msg != expected_msg, expected_msg is 继续操作前请注册或者登录., body_msg is error
+[INFO 2020-12-28 10:32:35]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 10:32:35]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 10:32:35]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 10:32:36]cookies: {'PHPSESSID': 's2qmtj7up8b2them2q6mk5gi24'}
+[INFO 2020-12-28 10:55:27]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 10:56:33]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 10:56:35]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 10:56:40]cookies: {'PHPSESSID': 'ma1ftse2vt9l3gv7befoplan05'}
+[INFO 2020-12-28 11:25:54]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 11:26:59]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 11:27:42]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 11:34:48]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 11:35:01]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 11:35:03]cookies: {'PHPSESSID': 'lt9sot440qm07sddc9pacsvkr1'}
+[DEBUG 2020-12-28 11:36:04]cookies: {'PHPSESSID': '2c2rd112hm98h63hasabcm2kq7'}
+[INFO 2020-12-28 11:45:29]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 11:45:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 11:45:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 11:45:39]cookies: {'PHPSESSID': 'bh73esbio80h8ukstn38iac781'}
+[INFO 2020-12-28 11:46:22]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 11:46:22]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 11:46:22]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 11:46:23]cookies: {'PHPSESSID': 'anr1aqrfr993pf0i121jd885r1'}
+[INFO 2020-12-28 11:46:50]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 11:46:50]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 11:46:50]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 11:46:51]cookies: {'PHPSESSID': 'bpdo413cc42h6e05uv21uum8t0'}
+[INFO 2020-12-28 11:49:02]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 11:49:03]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 11:49:03]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 11:49:04]cookies: {'PHPSESSID': 'vvrb61q142h25qe8j3eknddnm1'}
+[INFO 2020-12-28 11:53:23]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 11:53:23]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 11:53:23]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 11:53:25]cookies: {'PHPSESSID': 'apjirm9apdpq7m05bn1l439q72'}
+[INFO 2020-12-28 11:55:47]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 11:55:47]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 11:55:47]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 11:55:49]cookies: {'PHPSESSID': 'varfl3bnqri7v2up9kboohcid5'}
+[ERROR 2020-12-28 13:55:31]Response body msg != expected_msg, expected_msg is 继续操作前请注册或者登录., body_msg is error
+[INFO 2020-12-28 13:56:27]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 13:56:27]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 13:56:27]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 13:56:29]cookies: {'PHPSESSID': 'mc9e2u3ebs4obg15haom1eg2i6'}
+[ERROR 2020-12-28 13:58:15]Response body msg != expected_msg, expected_msg is 系统报表, body_msg is name
+[INFO 2020-12-28 14:01:52]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 14:01:52]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 14:01:52]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 14:01:52]cookies: {'PHPSESSID': 'kelhk0mqsg94sf6n0rr9qja567'}
+[INFO 2020-12-28 14:04:43]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 14:04:43]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 14:04:43]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 14:04:44]cookies: {'PHPSESSID': 'uqi692vtssld984mglp8dpfgn0'}
+[INFO 2020-12-28 20:25:42]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 20:26:21]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 20:26:21]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 20:26:21]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 20:26:23]cookies: {'PHPSESSID': 'e83c7m94o7ste277437efa1sb2'}
+[INFO 2020-12-28 21:13:11]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 21:13:27]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 21:15:02]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 21:15:21]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 21:16:28]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 21:16:28]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 21:16:28]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 21:16:29]cookies: {'PHPSESSID': '26t37ai265ev0eiafm4e2ee3l1'}
+[DEBUG 2020-12-28 21:16:30]cookies: {'PHPSESSID': 'uqnsouk4tmo5jplu35t7ol3bg2'}
+[ERROR 2020-12-28 21:16:30]statusCode error, expected_code is 401, statusCode is 200 
+[INFO 2020-12-28 21:16:36]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 21:16:36]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 21:16:36]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 21:16:37]cookies: {'PHPSESSID': 'f2ub6ie0vse1guhb7l4m16mqf7'}
+[INFO 2020-12-28 21:17:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 21:17:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 21:17:37]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 21:17:38]cookies: {'PHPSESSID': 'i3ln8c1f59d8bkurs7ipi5s4j1'}
+[INFO 2020-12-28 21:19:04]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Basic.yaml
+[INFO 2020-12-28 21:19:04]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Collections.yaml
+[INFO 2020-12-28 21:19:04]解析yaml, Path:D:\autotest\API_Automation/Params/Param/Personal.yaml
+[DEBUG 2020-12-28 21:19:05]cookies: {'PHPSESSID': 'pnl39o7c89t64knfqiovj9ah22'}
